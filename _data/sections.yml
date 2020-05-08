@@ -1,7 +1,10 @@
 resume:
+
   url: /home
   heading: Home
   words: Checkout my homepage
+
+
   class: m7 algorithms
   border: algorithms
 projects:

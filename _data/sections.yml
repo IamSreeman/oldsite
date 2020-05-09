@@ -1,8 +1,7 @@
-resume:
-
-  url: /home
-  heading: Home
-  words: Checkout my homepage
+main:
+  url: /main
+  heading: Main page
+  words: Checkout my mainpage
 
 
   class: m7 algorithms

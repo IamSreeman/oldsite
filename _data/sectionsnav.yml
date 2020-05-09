@@ -2,8 +2,6 @@ main:
   url: /main
   heading: Main page
   words: Checkout my mainpage
-
-
   class: m7 algorithms
   border: algorithms
 projects:
@@ -14,7 +12,7 @@ projects:
   border: projects
 about:
   url: /about
-  heading: Me
+  heading: About Me
   words: Hi, I'm an undergraduate student...
   class: m5 about
   border: about
@@ -24,3 +22,9 @@ contact:
   words: Feel free to shoot me an email
   class: m6 contact
   border: contact
+blog:
+  url: /blog
+  heading: Me
+  words: Hi, I'm an undergraduate student...
+  class: m6 blog
+  border: blog

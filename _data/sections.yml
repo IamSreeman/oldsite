@@ -2,8 +2,6 @@ main:
   url: /main
   heading: Main page
   words: Checkout my mainpage
-
-
   class: m7 algorithms
   border: algorithms
 projects:

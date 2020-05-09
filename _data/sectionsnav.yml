@@ -10,6 +10,12 @@ projects:
   words: A list of projects and experiments
   class: m6 projects
   border: projects
+blog:
+  url: /blog
+  heading: Me
+  words: Hi, this is my blog
+  class: m6 blog
+  border: blog
 about:
   url: /about
   heading: About Me
@@ -22,9 +28,3 @@ contact:
   words: Feel free to shoot me an email
   class: m6 contact
   border: contact
-blog:
-  url: /blog
-  heading: Me
-  words: Hi, I'm an undergraduate student...
-  class: m6 blog
-  border: blog

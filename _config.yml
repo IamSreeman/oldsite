@@ -25,7 +25,7 @@ url: "https://iamsreeman.github.io/" # the base hostname & protocol for your sit
 linked_in_link: "https://www.linkedin.com/in/iamsreeman/"
 github_link: "https://www.github.com/iamsreeman"
 facebook_link: "https://facebook.com/iamsreeman"
-twitter_username: "https://twitter.com/iamsreeman"
+twitter_link: "https://twitter.com/iamsreeman"
 google_analytics_id: 'UA-117297510-1'
 select_options: clear-filters HTML5 CSS3 SCSS javaScript jQuery materialize charts.js React jekyll Ruby-on-Rails Sinatra front-end back-end finished current
 sass:

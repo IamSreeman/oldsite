@@ -6,8 +6,8 @@ main:
   border: algorithms
 projects:
   url: /projects
-  heading: Projects
-  words: A list of projects and experiments
+  heading: Projects and notes
+  words: A list of notes and projects
   class: m6 projects
   border: projects
 about:
@@ -19,6 +19,6 @@ about:
 contact:
   url: /contact
   heading: Contact
-  words: Feel free to shoot me an email
+  words: Feel free to contact me
   class: m6 contact
   border: contact

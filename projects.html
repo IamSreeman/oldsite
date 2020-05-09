@@ -4,7 +4,17 @@ layout: not_homepage
 
 
 <div class="project_list">
-  <h2 class="heading center">Projects and Experiments:</h2>
+  <h2 class="heading center">Projects and related things:</h2>
+  <div class="container about_section">
+    <div class="row">
+      
+      <div class="about_paragraph">
+        <p>
+          In this page you can find my projects and other related things.
+        </p>
+      </div>
+    </div>
+  </div>
   {% for project in site.data.projects %}
     {% include project_box.html %}
   {% endfor %}

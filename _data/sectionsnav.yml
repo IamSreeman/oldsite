@@ -1,5 +1,7 @@
 main:
   url: /main
+notes:
+  url: /notes
 projects:
   url: /projects
 blog:

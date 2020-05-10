@@ -6,8 +6,8 @@ main:
   border: algorithms
 projects:
   url: /projects
-  heading: Projects and notes
-  words: A list of notes and projects
+  heading: Projects
+  words: A list of projects
   class: m6 projects
   border: projects
 about:

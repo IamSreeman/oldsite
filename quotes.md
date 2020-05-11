@@ -8,11 +8,10 @@ These are some of my favourite quotes.
 
 ― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))
 
->“Sometimes life's too **uncertain** to have regrets”
-
-― [Goku](https://en.wikipedia.org/wiki/Goku)(Cell Games Saga)
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
+
+>“**Time** is what prevents everything from happening at once.”
 
 ― [John Archibald Wheeler
 ](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
@@ -30,10 +29,18 @@ These are some of my favourite quotes.
 
 ― [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg)
 
->“**Time** is what prevents everything from happening at once.”
+>“But he (Galileo) was not an idiot,... Only an idiot could believe that scientific truth needs martyrdom — that may be necessary in religion, but scientific results prove themselves in time.”
 
-― [John Archibald Wheeler
-](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
+>“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
+
+― [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
+
+
+>“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
+
+― [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
+
+
 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
@@ -42,7 +49,6 @@ These are some of my favourite quotes.
 >“The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.”
 
 ― [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer)
-
 
 >“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
 >
@@ -54,4 +60,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
 ― [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), Pale Blue Dot: A Vision of the Human Future in Space
+
+>“Sometimes life's too **uncertain** to have regrets”
+
+― [Goku](https://en.wikipedia.org/wiki/Goku)(Cell Games Saga)
+
+You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).
 

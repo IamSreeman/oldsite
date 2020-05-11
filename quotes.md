@@ -30,7 +30,7 @@ These are some of my favourite quotes.
 
 ― [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg)
 
->“But he (Galileo) was not an idiot,... Only an idiot could believe that scientific truth needs martyrdom — that may be necessary in religion, but scientific results prove themselves in time.”
+>“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
 >“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
 

@@ -67,7 +67,6 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― [Goku](https://en.wikipedia.org/wiki/Goku)(Cell Games Saga)
 
-You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
  ― [రజినీకాంత్ ](https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D)(భాష కినేమాలో)
@@ -75,3 +74,4 @@ You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― [Rajinikanth](https://en.wikipedia.org/wiki/Rajinikanth)(From Basha movie)
 
+You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).

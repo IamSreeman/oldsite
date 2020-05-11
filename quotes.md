@@ -6,7 +6,7 @@ These are some of my favourite quotes.
 
 >“**Desires** are the root cause of **sadness**.”
 
-― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))
+― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))(You can read my views on religion [here](/blog/views-on-religion/))
 
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”

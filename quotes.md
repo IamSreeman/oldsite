@@ -8,6 +8,9 @@ These are some of my favourite quotes.
 
 ― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))(You can read my views on religion [here](/blog/views-on-religion/))
 
+>“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
+
+― [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
@@ -37,12 +40,6 @@ These are some of my favourite quotes.
 ― [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
 
 
->“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
-
-― [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
-
-
-
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
 ― [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
@@ -69,9 +66,9 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
- ― [రజినీకాంత్ ](https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D)(భాష కినేమాలో)
+ ― [రజినీకాంత్ ](https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D)(భాషా  సినిమాలో)
 
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
-― [Rajinikanth](https://en.wikipedia.org/wiki/Rajinikanth)(From Basha movie)
+― [Rajinikanth](https://en.wikipedia.org/wiki/Rajinikanth)(From Baasha movie)
 
 You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).

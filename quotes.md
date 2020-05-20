@@ -14,8 +14,6 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
->“**Time** is what prevents everything from happening at once.”
-
 ― [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”

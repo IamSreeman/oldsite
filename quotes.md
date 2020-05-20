@@ -2,11 +2,11 @@
 layout: not_homepage
 
 ---
-These are some of my favourite quotes.
+These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“**Desires** are the root cause of **sadness**.”
 
-― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))(You can read my views on religion [here](/blog/views-on-religion/))
+― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))(I do not support main stream Buddhism.You can read my views on religion [here](/blog/views-on-religion/))
 
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
 
@@ -16,15 +16,26 @@ These are some of my favourite quotes.
 
 >“**Time** is what prevents everything from happening at once.”
 
-― [John Archibald Wheeler
-](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
+― [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
 
->“The distinction between past, present, and future is only a **stubbornly persistent illusion.**”
+>“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
 ― [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
+>“[Nirvana](https://en.wikipedia.org/wiki/Nirvana) is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
 
->“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling. But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit. Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”
+>“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **[ATMAN](https://en.wikipedia.org/wiki/Atman) = [BRAHMAN](https://en.wikipedia.org/wiki/Brahman)** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
+>
+>Again, the mystics of many centuries, independently, yet in perfect harmony with each other (somewhat like the particles in an ideal gas) have described, each of them, the unique experience of his or her life in terms that can be condensed in the phrase: DEUS FACTUS SUM (I have become God).To Western ideology, the thought has remained a stranger...”
+
+― [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+
+
+>“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
+>
+>But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
+>
+>Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”
 
 ― [P.A.M Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)(at the 1927 Solvay Conference)
 
@@ -40,13 +51,31 @@ These are some of my favourite quotes.
 ― [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
 
 
+
 >“I was born not knowing and have had only a **little time** to change that here and there.”
+
+>“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
 
 ― [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
 
->“The optimist thinks this is the best of all possible worlds. The pessimist fears it is true.”
+>“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+
+― [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
+
+
+>“In some sort of crude sense which no vulgarity, no humor, no overstatement can quite extinguish, the physicists have known sin; and this is a knowledge which they cannot lose.”
 
 ― [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer)
+
+>“It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.”
+
+>“Young man, in mathematics you don't understand things. You just get used to them.”
+
+― [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+>“A possible explanation of the physicist's use of mathematics to formulate his laws of nature is that he is a somewhat irresponsible person. As a result, when he finds a connection between two quantities which resembles a connection well-known from mathematics, he will jump at the conclusion that the connection is that discussed in mathematics simply because he does not know of any other similar connection.”
+
+― [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner)
 
 ![alt text](/assets/images/pbdot.jpeg "Pale blue dot")
 >“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.

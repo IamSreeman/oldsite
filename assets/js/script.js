@@ -4,10 +4,11 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 $(document).ready(function() {
+  $(".dropdown-trigger").dropdown();
   Barba.Pjax.start();
 
   initializeScripts();
 
-  $(".dropdown-trigger").dropdown();
+  
   $('.sidenav').sidenav();
 });

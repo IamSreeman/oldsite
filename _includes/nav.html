@@ -1,18 +1,41 @@
-<nav class="z-depth-0 transparent">
-  <div class="nav-wrapper transparent s12">
-    <a href="/" class="brand-logo"><img src="/assets/images/logo.png" alt="website logo" /></a>
-    <a href="" data-activates="mobile-demo" class="button-collapse large">
-      <i class="material-icons black-text sandwich">menu</i>
-    </a>
-    <ul id="nav-mobile" class="right hide-on-med-and-down">
-      {% for my_section in site.data.sectionsnav %}
-        <li><a href={{my_section[1].url}} class="">{{my_section[0]}}</a><div class="nav-underline"></div></li>
-      {% endfor %}
+<!-- Belongs at: /_includes/navigation.html -->
+
+<!-- This finds the current page so it can be highlighted. -->
+
+{% for entry in site.data.navigation %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+    {% if fullurl == page.url %}
+        {% assign current_page = fullurl %}
+        {% break %}
+    {% elsif page.url contains fullurl %}
+        {% assign current_page = fullurl %}
+    {% endif %}
+{% endfor %}
+
+<!-- Then we build the nav bar. -->
+<nav>
+    <ul>
+    {% for entry in site.data.navigation %}
+        {% if entry.url == current_page %}
+            <!-- uses yellow, you can change to any other hexadecimal colour code. -->
+            {% assign current = ' style="background-color: #FFFFFF"' %}
+        {% else %}
+            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+            {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+        <li{{ current }}>
+            <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+            <ul>
+                {% for sublink in sublinks %}
+                <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% else %}
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
     </ul>
-    <ul class="side-nav" id="mobile-demo">
-      {% for my_section in site.data.sectionsnav %}
-        <li><a href={{my_section[1].url}}>{{my_section[0]}}</a><div class="nav-underline"></div></li>
-      {% endfor %}
-    </ul>
-  </div>
 </nav>

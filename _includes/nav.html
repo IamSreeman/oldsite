@@ -1,8 +1,3 @@
-
-<ul id="dropdown1" class="dropdown-content">
-  <li><a href="/quotes">quotes</a></li>
-  <li><a href="/blog">blog</a></li>
-</ul>
 <nav class="z-depth-0 transparent">
   <div class="nav-wrapper transparent s12">
     <a href="/" class="brand-logo"><img src="/assets/images/logo.png" alt="website logo" /></a>
@@ -13,26 +8,30 @@
       {% for my_section in site.data.sectionsnav %}
         <li><a href={{my_section[1].url}} class="">{{my_section[0]}}</a><div class="nav-underline"></div></li>
       {% endfor %}
-      <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">more<i class="material-icons right">arrow_drop_down</i></a></li>
+      <!-- Dropdown Trigger -->
+      <div class='dropdown-button btn' href='#!' data-activates='dropdown1'>More </div>
+
+      <!-- Dropdown Structure -->
+      <ul id='dropdown1' class='dropdown-content'>
+        <li><a href="/blog">blog</a></li>
+        <li class="divider"></li>
+        <li><a href="/quotes"><i class="material-icons">format_quote</i>quotes</a></li>
+      </ul>
       
     </ul>
     <ul class="side-nav" id="mobile-demo">
       {% for my_section in site.data.sectionsnav %}
         <li><a href={{my_section[1].url}}>{{my_section[0]}}</a><div class="nav-underline"></div></li>
       {% endfor %}
-      <li class="no-padding">
-        <ul class="collapsible collapsible-accordion">
-          <li>
-            <a class="collapsible-header">more<i class="material-icons">arrow_drop_down</i></a>
-            <div class="collapsible-body">
-              <ul>
-                <li><a href="/quotes">quotes</a></li>
-                <li><a href="/blog">blog</a></li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </li>
+      <div class='dropdown-button btn' href='#!' data-activates='dropdown2'>more</div>
+
+      <!-- Dropdown Structure -->
+      <ul id='dropdown2' class='dropdown-content'>
+        <li><a href="/blog">blog</a></li>
+        
+        <li class="divider"></li>
+        <li><a href="/quotes">quotes</a></li>
+      </ul>
     </ul>
   </div>
 </nav>

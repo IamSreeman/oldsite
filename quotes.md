@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
----
 
+---
 These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“**Desires** are the root cause of **sadness**.”

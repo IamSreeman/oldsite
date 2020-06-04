@@ -6,21 +6,22 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“**Desires** are the root cause of **sadness**.”
 
-― [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)(second of the 4 nobel truths mentioned in the [Dhammacakkappavattana Sutta](https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta))(I do not support main stream Buddhism.You can read my views on religion [here](/blog/views-on-religion/))
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>(second of the 4 nobel truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>)
+
 
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
 
-― [Henri Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
+― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
-― [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
+― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
-― [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“[Nirvana](https://en.wikipedia.org/wiki/Nirvana) is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
+>“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
 
 >“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **[ATMAN](https://en.wikipedia.org/wiki/Atman) = [BRAHMAN](https://en.wikipedia.org/wiki/Brahman)** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
 >

@@ -23,11 +23,11 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
 
->“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **[ATMAN](https://en.wikipedia.org/wiki/Atman) = [BRAHMAN](https://en.wikipedia.org/wiki/Brahman)** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
+>“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **<a href="https://en.wikipedia.org/wiki/Atman" target="_blank">ATMAN</a> = <a href="https://en.wikipedia.org/wiki/Brahman" target="_blank">BRAHMAN</a>** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
 >
 >Again, the mystics of many centuries, independently, yet in perfect harmony with each other (somewhat like the particles in an ideal gas) have described, each of them, the unique experience of his or her life in terms that can be condensed in the phrase: DEUS FACTUS SUM (I have become God).To Western ideology, the thought has remained a stranger...”
 
-― [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
 
 
 >“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
@@ -36,18 +36,18 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 >
 >Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”
 
-― [P.A.M Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)(at the 1927 Solvay Conference)
+― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>(at the 1927 Solvay Conference)
 
 
 >“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes religion.”
 
-― [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg)
+― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
 >“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
 >“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
 
-― [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
+― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
 
 
@@ -55,30 +55,30 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
 
-― [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)
+― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
 
 >“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
 
-― [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)
+― <a href="https://en.wikipedia.org/wiki/Marie_Curie" target="_blank">Marie Curie</a>
 
 
 >“In some sort of crude sense which no vulgarity, no humor, no overstatement can quite extinguish, the physicists have known sin; and this is a knowledge which they cannot lose.”
 
-― [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer)
+― <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer" target="_blank">J. Robert Oppenheimer</a>
 
 >“It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.”
 
 >“Young man, in mathematics you don't understand things. You just get used to them.”
 
-― [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+― <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a>
 
 >“A possible explanation of the physicist's use of mathematics to formulate his laws of nature is that he is a somewhat irresponsible person. As a result, when he finds a connection between two quantities which resembles a connection well-known from mathematics, he will jump at the conclusion that the connection is that discussed in mathematics simply because he does not know of any other similar connection.”
 
-― [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner)
+― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
 
 >“Niels Bohr brain-washed a whole generation of physicists into believing that the problem had been solved fifty years ago [comment on the Copenhagen interpretation].”
 
-― [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann)
+― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
 
 ![alt text](/blog/img/pbdot.jpeg "Pale blue dot")
@@ -91,17 +91,17 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
-― [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), Pale Blue Dot: A Vision of the Human Future in Space
+― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
 
 >“Sometimes life's too **uncertain** to have regrets”
 
-― [Goku](https://en.wikipedia.org/wiki/Goku)(Cell Games Saga)
+― <a href="https://en.wikipedia.org/wiki/Goku" target="_blank">Goku</a>(Cell Games Saga)
 
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
- ― [రజినీకాంత్ ](https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D)(భాషా  సినిమాలో)
+ ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
 
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
-― [Rajinikanth](https://en.wikipedia.org/wiki/Rajinikanth)(From Baasha movie)
+― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Baasha movie)
 
 You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).

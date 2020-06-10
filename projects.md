@@ -28,9 +28,9 @@ layout: not_homepage
 >
 >**Abstract**: First we are going to learn concepts of special theory of relativity from basic postulates. We then introduce Tensors and Tensor calculus and after that we deal with basic General Relativity. We are using the Einstein notation(1916) and not the new Abstract index notation of Penrose and Rindler(1984).
 >
->It is an Summer of Science(SoS) report.
+>It is an Summer of Science(SoS) report. If you want the tex files you can [download here](\files\projects\Special and General Relativity.zip)
 >
-><a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a> <a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.zip'>TeX files</a> 
+><a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a> 
 
 <div class="projects-bottom center-align">
   <h1 class="heading">Have questions, comments, feedback? Feel free to reach out!</h1>

@@ -4,13 +4,13 @@ layout: not_homepage
 
 
 <div class="project_list">
-  <h2 class="heading center">Projects and related things:</h2>
+  <h2 class="heading center">Projects and reports:</h2>
   <div class="container about_section">
     <div class="row">
       
       <div class="about_paragraph">
         <p>
-          In this page you can find my projects and other related things.
+          In this page you can find my projects and reports-
         </p>
       </div>
     </div>
@@ -19,6 +19,15 @@ layout: not_homepage
     {% include project_box.html %}
   {% endfor %}
 </div>
+1. [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
+
+>##### Special and General Relativity (April 2020)
+>
+>**Abstract**: First we are going to learn concepts of special theory of relativity from basic postulates. We then introduce Tensors and Tensor calculus and after that we deal with basic General Relativity. We are using the Einstein notation(1916) and not the new Abstract index notation of Penrose and Rindler(1984).
+>
+>It is an Summer of Science(SoS) report.
+>
+><a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a> <a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.zip'>TeX files</a> 
 
 <div class="projects-bottom center-align">
   <h1 class="heading">Have questions, comments, feedback? Feel free to reach out!</h1>

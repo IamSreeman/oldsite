@@ -19,7 +19,10 @@ layout: not_homepage
     {% include project_box.html %}
   {% endfor %}
 </div>
-1. [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
+
+>##### List of projects and reports
+>
+>1. [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
 >##### Special and General Relativity (April 2020)
 >

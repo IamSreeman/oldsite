@@ -33,7 +33,7 @@ layout: not_homepage
 ><a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a> 
 
 <div class="projects-bottom center-align">
-  <h1 class="heading">Have questions, comments, feedback? Feel free to reach out!</h1>
+  <h1 class="heading">Have questions, comments, feedback? Feel free to <a href="/contact">contact</a>!</h1>
   <div class="row">
     <div class="col m6 offset-m3 s12">
       <div class="row">

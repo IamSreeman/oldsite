@@ -74,6 +74,8 @@ These are some of my favourite quotes, which are relatable to my philosophy.
 
 >“A possible explanation of the physicist's use of mathematics to formulate his laws of nature is that he is a somewhat irresponsible person. As a result, when he finds a connection between two quantities which resembles a connection well-known from mathematics, he will jump at the conclusion that the connection is that discussed in mathematics simply because he does not know of any other similar connection.”
 
+>“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither ***understand*** nor ***deserve***.”
+
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
 
 >“Niels Bohr brain-washed a whole generation of physicists into believing that the problem had been solved fifty years ago [comment on the Copenhagen interpretation].”

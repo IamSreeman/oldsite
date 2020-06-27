@@ -2,7 +2,7 @@
 layout: not_homepage
 
 ---
-These are some of my favourite quotes, which are relatable to my philosophy.
+These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
 
 >“**Desires** are the root cause of **sadness**.”
 

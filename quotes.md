@@ -39,7 +39,11 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>(at the 1927 Solvay Conference)
 
 
->“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes religion.”
+>“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
+
+>“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
+
+>“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 

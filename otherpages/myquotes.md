@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-
+permalink: /myquotes/
 ---
 I am an avid collector of quotes. Although I am well aware that I am not worthy enough to write quotes, I am still writing some quotes. These are the quotes-
 
@@ -8,6 +8,6 @@ I am an avid collector of quotes. Although I am well aware that I am not worthy 
 
 >“If humans had a life span of a billion years everyone would have become atheists before they die.”
 
->“Atheism may not have a specified purpose for life. So those who lost faith have to find their own purpose for life. It may be hard to find what is the purpose, but believe me it is better than following some blind stupid path based on religions. Ultimately fix your purpose before it is too late to accomplish.”
+>“Atheism may not have a specified purpose for life. So those who lost faith have to find their own purpose for life. It may be hard to find what is the purpose, but believe it is better than following some blind stupid path based on religions.”
 
 

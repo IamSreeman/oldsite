@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-
+permalink: /quotes/
 ---
 These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
 

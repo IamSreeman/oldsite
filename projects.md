@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-title: Projects-K Sreeman Reddy
+title: Projects|K Sreeman Reddy
 ---
 
 

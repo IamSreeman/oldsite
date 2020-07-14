@@ -99,15 +99,24 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
 
->“Sometimes life's too **uncertain** to have regrets”
-
-― <a href="https://en.wikipedia.org/wiki/Goku" target="_blank">Goku</a>(Cell Games Saga)
-
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
-
+>
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Baasha movie)
+
+>“Sometimes life's too **uncertain** to have regrets”
+
+― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>(Cell Games Saga)
+
+>“Even I can tell that hatred is spreading. I wanted to do something about it … but I don't know what … but I believe… that someday the day will come when people truly understand one another!! If I can't find the answer, it will be up to you to do it!!”
+
+― <a href="https://naruto.fandom.com/wiki/Jiraiya" target="_blank">Jiraiya</a>
+
+
+>“...People live their lives bound by what they accept as correct and true… that is how they define reality. But what does it mean to be correct or true? Merely vague concepts… their reality may all be an illusion.”
+
+― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
 You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).

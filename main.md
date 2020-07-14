@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-
+title: K Sreeman Reddy
 ---
 <div class="container about_section">
   <div class="row">

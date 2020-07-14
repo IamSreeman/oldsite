@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 permalink: /quotes/
-title: Quotes|K Sreeman Reddy
+title: Quotes | K Sreeman Reddy
 ---
 These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
 

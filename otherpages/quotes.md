@@ -69,6 +69,8 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 
 >“In some sort of crude sense which no vulgarity, no humor, no overstatement can quite extinguish, the physicists have known sin; and this is a knowledge which they cannot lose.”
 
+>“If we ask, for instance, whether the position of the electron remains the same, we must say 'no'; if we ask whether the electron's position changes with time, we must say 'no'; if we ask whether the electron is at rest, we must say 'no'; if we ask whether it is in motion, we must say 'no'. **The Buddha** has given such answers when interrogated as to the conditions of a man's self after his death; but they are not familiar answers for the tradition of seventeenth and eighteenth century science.”
+
 ― <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer" target="_blank">J. Robert Oppenheimer</a>
 
 >“It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.”

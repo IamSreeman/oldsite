@@ -1,9 +1,14 @@
 ---
 layout: not_homepage
 title: Quotes | K Sreeman Reddy
-permalink: /quotes/
+permalink: /quotes2/
 ---
-These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
+<div class="container about_section">
+  <div class="row">
+    
+    <div class="about_paragraph" markdown="1">
+      
+  These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
 
 >“**Desires** are the root cause of **sadness**.”
 
@@ -54,7 +59,6 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
 
-
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
@@ -103,10 +107,12 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
- ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
+>
+>― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
 >
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
-― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Baasha movie)
+>
+>― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Baasha movie)
 
 >“Sometimes life's too **uncertain** to have regrets”
 
@@ -122,3 +128,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
 You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).
+
+    
+
+
+</div>
+</div>
+</div>

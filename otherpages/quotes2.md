@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 title: Quotes | K Sreeman Reddy
-permalink: /quotes2/
+permalink: /quotes2
 ---
 <div class="container about_section">
   <div class="row">

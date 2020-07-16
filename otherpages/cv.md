@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 title: CV | K Sreeman Reddy
-permalink: /cv/
+permalink: /cv
 ---
 
 {% include quote.html quote=page.quote author=page.author %}

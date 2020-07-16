@@ -1,6 +1,7 @@
 ---
 layout: not_homepage
 title: K Sreeman Reddy
+permalink: /main/
 ---
 <div class="container about_section">
   <div class="row">

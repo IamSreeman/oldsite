@@ -1,9 +1,9 @@
 main:
   url: /main
-notes:
-  url: /notes
 projects:
   url: /projects
+notes:
+  url: /notes
 about:
   url: /about
 contact:

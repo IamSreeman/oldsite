@@ -22,6 +22,9 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
+>“Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. ***What one fool can do, another can.***”
+
+― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
 >“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
 >

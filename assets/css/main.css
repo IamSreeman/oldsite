@@ -39,6 +39,9 @@
 .projects__bkgrnd {
   background-image: url("../images/projects.jpg"); }
 
+.notes__bkgrnd {
+  background-image: url("../images/notes.png"); }
+
 .algorithms__bkgrnd {
   background-image: url("../images/resume.jpg"); }
 
@@ -848,6 +851,10 @@ button.fill:hover:before {
   left: -1px; }
 
 .projects-border {
+  bottom: 0;
+  left: 0; }
+
+.notes-border {
   bottom: 0;
   left: 0; }
 

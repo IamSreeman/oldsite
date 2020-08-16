@@ -8,17 +8,23 @@ projects:
   url: /projects
   heading: Projects
   words: A list of projects
-  class: m6 projects
+  class: m4 projects
   border: projects
+notes:
+  url: /notes
+  heading: Notes
+  words: Some notes
+  class: m4 notes
+  border: notes
+contact:
+  url: /contact
+  heading: Contact
+  words: Feel free to contact me
+  class: m4 contact
+  border: contact
 about:
   url: /about
   heading: About Me
   words: Hi, I'm an undergraduate student...
   class: m5 about
   border: about
-contact:
-  url: /contact
-  heading: Contact
-  words: Feel free to contact me
-  class: m6 contact
-  border: contact

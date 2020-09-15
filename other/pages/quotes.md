@@ -104,7 +104,7 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
 
-“He who fights with monsters should look to it that he himself does not become a monster. ***And if you gaze long into an abyss, the abyss also gazes into you** .”
+>“He who fights with monsters should look to it that he himself does not become a monster. ***And if you gaze long into an abyss, the abyss also gazes into you** .”
 
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">Friedrich Nietzsche
 </a>

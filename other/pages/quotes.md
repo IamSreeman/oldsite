@@ -104,6 +104,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
 
+“He who fights with monsters should look to it that he himself does not become a monster. ***And if you gaze long into an abyss, the abyss also gazes into you** .”
+
+― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">Friedrich Nietzsche
+</a>
 
 >“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)

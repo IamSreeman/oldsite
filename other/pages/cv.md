@@ -3,8 +3,8 @@ layout: not_homepage
 title: CV | K Sreeman Reddy
 permalink: /cv
 redirect_from:
-  - /CV
-  - ./CurriculumVitae
+  - {{ site.baseurl }}/CV
+  - {{ site.baseurl }}/CurriculumVitae
 ---
 <div class="row resume-wrapper">
   <a href="../CV.pdf" title="click to open in pdf viewer" target="_blank">

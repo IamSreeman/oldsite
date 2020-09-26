@@ -3,7 +3,7 @@ layout: not_homepage
 title: CV | K Sreeman Reddy
 permalink: /cv
 redirect_from:
-  - ./CV
+  - /CV
   - ./CurriculumVitae
 ---
 <div class="row resume-wrapper">

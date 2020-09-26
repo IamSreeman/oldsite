@@ -1,6 +1,6 @@
 ---
 layout: 'redirect'
 permalink: /CV
-redir_to: '{{ site.baseurl }}/cv'
+redir_to: '/cv'
 sitemap: false
 ---

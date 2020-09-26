@@ -119,9 +119,9 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>(Cell Games Saga)
 
->“Even I can tell that hatred is spreading. I wanted to do something about it … but I don't know what … but I believe… that someday the day will come when people truly understand one another!! If I can't find the answer, it will be up to you to do it!!”
+>“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
-― <a href="https://naruto.fandom.com/wiki/Jiraiya" target="_blank">Jiraiya</a>
+― <a href="https://kiseijuu.fandom.com/wiki/Migi" target="_blank">Migi</a>
 
 
 >“...People live their lives bound by what they accept as correct and true… that is how they define reality. But what does it mean to be correct or true? Merely vague concepts… their reality may all be an illusion.”

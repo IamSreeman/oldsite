@@ -1,10 +1,7 @@
 ---
 layout: not_homepage
 title: CV | K Sreeman Reddy
-permalink: {{ site.baseurl }}/cv
-redirect_from:
-  - {{ site.baseurl }}/CV
-  - {{ site.baseurl }}/CurriculumVitae
+permalink: /cv
 ---
 <div class="row resume-wrapper">
   <a href="../CV.pdf" title="click to open in pdf viewer" target="_blank">

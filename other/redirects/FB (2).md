@@ -1,6 +1,6 @@
 ---
 layout: 'redirect'
-permalink: /fb
+permalink: /FB
 redir_to: 'http://www.facebook.com/iamsreeman'
 sitemap: false
 ---

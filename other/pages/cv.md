@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 title: CV | K Sreeman Reddy
-permalink: /cv
+permalink: {{ site.baseurl }}/cv
 redirect_from:
   - {{ site.baseurl }}/CV
   - {{ site.baseurl }}/CurriculumVitae

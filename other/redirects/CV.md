@@ -1,6 +1,6 @@
 ---
 layout: 'redirect'
-permalink: /CV
-redir_to: '/cv'
+permalink: /cv
+redir_to: '/CV'
 sitemap: false
 ---

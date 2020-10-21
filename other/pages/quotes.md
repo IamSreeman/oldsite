@@ -9,14 +9,13 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>(second of the 4 nobel truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>)
 
+>“Spacetime tells matter how to move; matter tells spacetime how to curve.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
 
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
-
->“Spacetime tells matter how to move; matter tells spacetime how to curve.”
-
-― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 

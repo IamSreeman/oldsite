@@ -19,3 +19,4 @@ permalink: /CV
     <button class="fill col s8 offset-s2 m4 offset-m4">open as pdf</button>
   </a>
 </div>
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2FCV" alt="Hits" style="display: none;">

@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-title: Hits | K Sreeman Reddy
+title: Hits | K. Sreeman Reddy
 permalink: /hits
 ---
 <p align="center">

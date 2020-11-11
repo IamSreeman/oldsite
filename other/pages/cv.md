@@ -1,6 +1,6 @@
 ---
 layout: not_homepage
-title: CV | K Sreeman Reddy
+title: CV | K. Sreeman Reddy
 permalink: /CV
 ---
 <div class="row resume-wrapper">

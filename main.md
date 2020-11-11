@@ -17,7 +17,9 @@ permalink: /main/
   </div>
 </div>
 <p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2F" alt="Hits"> <br>
-  No of visits of home page(not this page). Started on 11-Nov-20.
+  <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2F" alt="Hits">
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fmain" alt="Hits"><br>
+  home page,main page<br>
+  Started on 11-Nov-20 and doesn't include refreshes.
 </p>
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fmain" alt="Hits" style="display: none;">
+

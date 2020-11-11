@@ -20,6 +20,9 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
+>“If I have seen further it is by standing on the shoulders of Giants.”
+
+― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
 
 >“Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. ***What one fool can do, another can.***”
 

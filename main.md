@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 title: K Sreeman Reddy
-permalink: /main/
+permalink: /main
 ---
 <div class="container about_section">
   <div class="row">
@@ -16,10 +16,4 @@ permalink: /main/
     </div>
   </div>
 </div>
-<p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2F" alt="Hits">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fmain" alt="Hits"><br>
-  home page,main page<br>
-  Started on 11-Nov-20 and doesn't include refreshes.
-</p>
-
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fmain" alt="Hits" style="display: none;">

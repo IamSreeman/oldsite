@@ -10,7 +10,7 @@ permalink: /main
         Hi, this is a personal website of <a href="/about" >K. Sreeman Reddy</a>.
       </p>
       <p>
-        Links are there in the navigation bar.
+        Checkout the <a href="/projects">projects</a> page. Other links are there in the navigation bar.
       </p>
     </div>
   </div>

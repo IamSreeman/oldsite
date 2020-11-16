@@ -9,7 +9,6 @@ permalink: /projects
   <h2 class="heading center">Projects and reports:</h2>
   <div class="container about_section">
     <div class="row">
-      
       <div class="about_paragraph">
         <p>
           In this page you can find my projects and reports-

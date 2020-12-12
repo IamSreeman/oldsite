@@ -12,6 +12,9 @@ permalink: /main
       <p>
         Checkout the <a href="/projects">projects</a> page. Other links are there in the navigation bar.
       </p>
+      <p>
+        For MA 109 resources check <a href="/MA109">MA109 page</a>.
+      </p>
     </div>
   </div>
 </div>

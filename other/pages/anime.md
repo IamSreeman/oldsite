@@ -1,7 +1,7 @@
 ---
 layout: not_homepage
 title: Anime | K. Sreeman Reddy
-permalink: /anime
+permalink: anime
 ---
 
 <div class="project_list">

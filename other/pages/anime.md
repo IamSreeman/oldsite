@@ -68,3 +68,5 @@ permalink: anime
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ASWcIZWmXfk?start=3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pVYeJyZCwzE?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0IWCyO8e39I?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fanime" alt="Hits" style="display: none;">

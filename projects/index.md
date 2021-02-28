@@ -24,12 +24,12 @@ permalink: /projects
 >##### List of projects and reports
 >
 >1. [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
->1. [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19:analysis-of-a-modified-seir-model-october-november-2020)
+>1. [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
 >1. [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
 >##### Category theory applications in physics (October-November 2020)
 >This project deals with using category theory in Quantum Mechanics. In the end we will see a proof of No-cloning theorem using category theory.
->**Abstract**: 
+>
 ><a class="waves-effect waves-light btn" href='https://github.com/iamsreeman/LaTeX/blob/master/CTAP/CTAP.pdf' target="_blank">View PDF</a> 
 
 >##### Covid-19:analysis of a modified SEIR model (October-November 2020)

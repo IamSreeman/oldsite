@@ -33,7 +33,7 @@ select_options: clear-filters HTML5 CSS3 SCSS javaScript jQuery materialize char
 sass:
   sass_dir: assets/css/main.css
   style: :nested
-
+markdown: kramdown
 gems:
   - jekyll-feed
 exclude:

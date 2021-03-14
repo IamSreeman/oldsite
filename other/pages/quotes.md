@@ -3,17 +3,18 @@ layout: not_homepage
 title: Quotes | K. Sreeman Reddy
 permalink: /quotes
 ---
-<script type="text/javascript">
-window.MathJax = {
-  tex: {
-    packages: ['base', 'ams']
-  },
-  loader: {
-    load: ['ui/menu', '[tex]/ams']
-  }
-};
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
 These are some of my favorite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
 >“I worked horribly strenuously, strange that one can endure that.”<sup id="a1">[1](#f1)</sup>

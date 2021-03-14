@@ -16,7 +16,7 @@ window.MathJax = {
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 These are some of my favorite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
->“I worked horribly strenuously, strange that one can endure that.”{% fn %}
+>“I worked horribly strenuously, strange that one can endure that.”<sup id="a1">[1](#f1)</sup>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
@@ -24,7 +24,8 @@ These are some of my favorite quotes, which are relatable to my philosophy. I am
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“**Desires** are the root cause of **sadness**.”{% fn %}
+>“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup>
+
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
 
@@ -144,13 +145,9 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
-{% footnotes %}
-   {% fnbody %}
-      I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> (\(G_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }\) the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the correct equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR.
-   {% endfnbody %}
-   {% fnbody %}
-      It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>
-   {% endfnbody %}
-{% endfootnotes %}
+<b id="f1">1</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $G_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the correct equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR.
+ [↩](#a1)
+ 
+<b id="f2">2</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>. [↩](#a2)
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fquotes" alt="Hits" style="display: none;">

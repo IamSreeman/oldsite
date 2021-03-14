@@ -3,11 +3,30 @@ layout: not_homepage
 title: Quotes | K. Sreeman Reddy
 permalink: /quotes
 ---
-These are some of my favourite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
+<script type="text/javascript">
+window.MathJax = {
+  tex: {
+    packages: ['base', 'ams']
+  },
+  loader: {
+    load: ['ui/menu', '[tex]/ams']
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
->“**Desires** are the root cause of **sadness**.”
+These are some of my favorite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
+>“I worked horribly strenuously, strange that one can endure that.”{% fn %}
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>(second of the 4 nobel truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>)
+>“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
+
+>“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modeled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbor such thoughts through **fear or ridiculous egotisms**.”
+
+― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
+
+>“**Desires** are the root cause of **sadness**.”{% fn %}
+
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
@@ -17,9 +36,6 @@ These are some of my favourite quotes, which are relatable to my philosophy. I a
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
->“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
-
-― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 >“If I have seen further it is by standing on the shoulders of Giants.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
@@ -128,5 +144,13 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
-You can suggest me some similar quotes by mailing [me](mailto:sreemanmohanreddy@gmail.com).
+{% footnotes %}
+   {% fnbody %}
+      I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> (\(G_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }\) the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the correct equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR.
+   {% endfnbody %}
+   {% fnbody %}
+      It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>
+   {% endfnbody %}
+{% endfootnotes %}
+
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fquotes" alt="Hits" style="display: none;">

@@ -42,5 +42,6 @@ exclude:
 plugins:
   - jekyll-paginate 
   - jekyll-redirect-from
+  - jekyll/footnotes
 whitelist:
   - jekyll-redirect-from

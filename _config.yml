@@ -20,8 +20,8 @@ description: >
   I am an undergradute student who wonders about this marvellous universe.
 about_me: >
   I am an undergraduate studying at IIT Bombay. I like physics and maths. I am from Tadipatri, Andhra Pradesh. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iamsreeman.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/oldsite" # the subpath of your site, e.g. /blog
+url: "https://iamsreeman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/iamsreeman/"
 github_link: "https://www.github.com/iamsreeman"
 facebook_link: "https://facebook.com/iamsreeman"

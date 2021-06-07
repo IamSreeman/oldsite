@@ -6,7 +6,7 @@ GEM
     colorator (1.1.0)
     ffi (1.13.1-x64-mingw32)
     forwardable-extended (2.6.0)
-    jekyll (3.3.1)
+    jekyll (~> 3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -18,7 +18,7 @@ GEM
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
     jekyll-feed (0.11.0)
-      jekyll (~> 3.3)
+      jekyll (~> 3.6.3)
     jekyll-footnotes (1.0.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
@@ -50,7 +50,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (= 3.3.1)
+  jekyll (~> 3.6.3)
   jekyll-feed (~> 0.6)
   jekyll-footnotes
   jekyll-redirect-from

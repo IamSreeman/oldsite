@@ -1,29 +1,29 @@
 main:
-  url: {{site.baseurl}}/main
+  url: /oldsite/main
   heading: Main page
   words: Checkout my mainpage
   class: m7 algorithms
   border: algorithms
 projects:
-  url: {{site.baseurl}}/projects
+  url: /oldsite/projects
   heading: Projects
   words: A list of projects
   class: m4 projects
   border: projects
 notes:
-  url: {{site.baseurl}}/notes
+  url: /oldsite/notes
   heading: Notes
   words: Some notes
   class: m4 notes
   border: notes
 contact:
-  url: {{site.baseurl}}/contact
+  url: /oldsite/contact
   heading: Contact
   words: Feel free to contact me
   class: m4 contact
   border: contact
 about:
-  url: {{site.baseurl}}/about
+  url: /oldsite/about
   heading: About Me
   words: Hi, I'm an undergraduate student...
   class: m5 about

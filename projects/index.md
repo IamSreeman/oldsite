@@ -47,15 +47,15 @@ TQ is more efficient in controlling the pandemic than lock-downs that only imple
 >
 >It is an Summer of Science(SoS) report. If you want the tex files you can [download here](\files\projects\Special and General Relativity.zip)
 >
-><a class="waves-effect waves-light btn" href='\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a>
+><a class="waves-effect waves-light btn" href='{{site.baseurl}}\files\projects\Special and General Relativity.pdf' target="_blank">View PDF</a>
 
 <div class="projects-bottom center-align">
-  <h1 class="heading">Have questions, comments, feedback? Feel free to <a href="/contact">contact</a>!</h1>
+  <h1 class="heading">Have questions, comments, feedback? Feel free to <a href="{{site.baseurl}}/contact">contact</a>!</h1>
   <div class="row">
     <div class="col m6 offset-m3 s12">
       <div class="row">
         <div class="col s6">
-          <a href="/contact"><button type="button" class="fill col s12" name="button">contact</button></a>
+          <a href="{{site.baseurl}}/contact"><button type="button" class="fill col s12" name="button">contact</button></a>
         </div>
         <div class="col s6">
           <button type="button" class="fill col s12" id="scroll-top" title="scroll back top" name="button">scroll back top</button>

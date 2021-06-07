@@ -1,10 +1,10 @@
 main:
-  url: /main
+  url: {{site.baseurl}}/main
 projects:
-  url: /projects
+  url: {{site.baseurl}}/projects
 notes:
-  url: /notes
+  url: {{site.baseurl}}/notes
 about:
-  url: /about
+  url: {{site.baseurl}}/about
 contact:
-  url: /contact
+  url: {{site.baseurl}}/contact

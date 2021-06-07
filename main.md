@@ -7,13 +7,13 @@ permalink: /main
   <div class="row">
     <div class="about_paragraph">
       <p>
-        Hi, this is a personal website of <a href="/about" >K. Sreeman Reddy</a>.
+        Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>.
       </p>
       <p>
-        Checkout the <a href="/projects">projects</a> page. Other links are there in the navigation bar.
+        Checkout the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar.
       </p>
       <p>
-        For MA 109 resources check <a href="/MA109">MA109 page</a>. You can find some  <a href="/quotes">quotes here</a>.
+        For MA 109 resources check <a href="{{site.baseurl}}/MA109">MA109 page</a>. You can find some  <a href="{{site.baseurl}}/quotes">quotes here</a>.
       </p>
     </div>
   </div>

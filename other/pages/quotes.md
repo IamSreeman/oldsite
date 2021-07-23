@@ -3,20 +3,21 @@ layout: not_homepage
 title: Quotes | K. Sreeman Reddy
 permalink: /quotes
 ---
-<script type="text/javascript">
-window.MathJax = {
-  tex: {
-    packages: ['base', 'ams']
-  },
-  loader: {
-    load: ['ui/menu', '[tex]/ams']
-  }
-};
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
-These are some of my favorite quotes, which are relatable to my philosophy. I am an avid collector of quotes.
->“I worked horribly strenuously, strange that one can endure that.”{% fn %}
+These are some of my favorite quotes. I am an avid collector of quotes.
+>“I worked horribly strenuously, strange that one can endure that.”<sup id="a1">[1](#f1)</sup>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
@@ -24,7 +25,7 @@ These are some of my favorite quotes, which are relatable to my philosophy. I am
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“**Desires** are the root cause of **sadness**.”{% fn %}
+>“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup> (I do not support main stream **unscientific** Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>.)
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
 
@@ -39,6 +40,14 @@ These are some of my favorite quotes, which are relatable to my philosophy. I am
 >“If I have seen further it is by standing on the shoulders of Giants.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
+
+>“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
+
+>“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can **understand the Universe**. That makes us something very special.”
+
+>“I have lived with the prospect of an early death for the last 49 years. I'm not afraid of death, but I'm in no hurry to die. I have so much I want to do first ... I regard the brain as a computer which will stop working when its components fail. There is no heaven or afterlife for broken down computers; that is a fairy story for people afraid of the dark.”
+
+― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
 >“Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. ***What one fool can do, another can.***”
 
@@ -109,7 +118,7 @@ These are some of my favorite quotes, which are relatable to my philosophy. I am
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
-<img src="/assets/images/pbdot.jpeg" width="405" height="223" alt="Photo of 3 cats">
+<img src="{{site.baseurl}}/assets/images/pbdot.jpeg" width="405" height="223" alt="Photo of 3 cats">
 >“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
 >
 >The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a **fraction of a dot**.
@@ -120,6 +129,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
+
+>“If there is a God, atheism must strike Him as less of an insult than religion.”
+
+― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
 
 >“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you** .”
 
@@ -144,13 +157,13 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
-{% footnotes %}
-   {% fnbody %}
-      I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> (\(G_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }\) the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the correct equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR.
-   {% endfnbody %}
-   {% fnbody %}
-      It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>)(I do not support main stream Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>
-   {% endfnbody %}
-{% endfootnotes %}
+>“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
+
+― <a href="https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia" target="_blank">Lelouch vi Britannia</a>
+
+<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.
+ [↩](#a1)
+ 
+<b id="f2">2)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>. [↩](#a2)
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fquotes" alt="Hits" style="display: none;">

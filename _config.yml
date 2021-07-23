@@ -20,8 +20,8 @@ description: >
   I am an undergradute student who wonders about this marvellous universe.
 about_me: >
   I am an undergraduate studying at IIT Bombay. I like physics and maths. I am from Tadipatri, Andhra Pradesh. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iamsreeman.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/oldsite" # the subpath of your site, e.g. /blog
+url: "https://iamsreeman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/iamsreeman/"
 github_link: "https://www.github.com/iamsreeman"
 facebook_link: "https://facebook.com/iamsreeman"
@@ -31,9 +31,9 @@ whatsapp_link: "https://api.whatsapp.com/send?phone=917032905466"
 google_analytics_id: 'UA-165988854-1'
 select_options: clear-filters HTML5 CSS3 SCSS javaScript jQuery materialize charts.js React jekyll Ruby-on-Rails Sinatra front-end back-end finished current
 sass:
-  sass_dir: assets/css/main.css
+  sass_dir: oldsite/assets/css/main.css
   style: :nested
-
+markdown: kramdown
 gems:
   - jekyll-feed
 exclude:

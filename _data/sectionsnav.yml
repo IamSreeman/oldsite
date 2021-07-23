@@ -1,10 +1,10 @@
 main:
-  url: /main
+  url: /oldsite/main
 projects:
-  url: /projects
+  url: /oldsite/projects
 notes:
-  url: /notes
+  url: /oldsite/notes
 about:
-  url: /about
+  url: /oldsite/about
 contact:
-  url: /contact
+  url: /oldsite/contact
